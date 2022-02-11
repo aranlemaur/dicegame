@@ -6,4 +6,4 @@ You have two six-sided dice, and the randomly generated numbers are stored in a 
 
 ## Good for...
 - Using the `random` module
-- Using tests
+- Using lists
